@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void print_brick_row(int spaces,int bricks); // Function prototype: prints a single row of the mirrored triangle
+void print_brick_row(int spaces,int bricks); // Function prototype: prints a single row of the Pyramid
 
 int main ()
 { 
