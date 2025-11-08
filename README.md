@@ -1,5 +1,5 @@
 # triangle-builder-c
-A simple C program that prints a right-aligned triangle 
+A simple C program that prints shapes 
 <br>
 Author - Sushanth Akumalla
 
