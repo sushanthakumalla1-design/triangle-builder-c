@@ -1,6 +1,6 @@
 # include<stdio.h>
 
-void print_brick_row(int space, int brick);
+void print_brick_row(int spaces, int bricks);
 
 int main ()
 {
@@ -31,7 +31,7 @@ void print_brick_row(int space, int brick)
     }
     for(int j=0;j<brick;j++)
     {
-        printf("#");
+        printf("*");
     }
     printf("\n");
 
